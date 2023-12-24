@@ -1,0 +1,3 @@
+1) change font colors
+2) integrate (bad-apple)
+3) change default execution-policy
